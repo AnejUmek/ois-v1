@@ -5,5 +5,6 @@ public class Gravitacija{
         System.out.println("kurbadrek kurac taku ja");
         System.out.prinln("Rade je carry?");
         System.out.prinln("jezus");
+        System.out.prinln("Rade je carry!");
     }
 }
