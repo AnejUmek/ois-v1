@@ -3,7 +3,8 @@ public class Gravitacija{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         double v = sc.nextInt();
-        System.out.println(gravitacija(v));
+        System.out.println("Podana nadmorska visina je:" + v +" m" );
+        System.out.println("Gravitacijski pospesek je:" + gravitacija(v) +" m/s^2" );
     }
     public static double gravitacija(double v){
         double C = 6.674 * Math.pow(10, -11);
