@@ -1,3 +1,5 @@
 public class Gravitacija {
-	//OIS je zakon
+	public static void main(String[] args) {
+		
+	}
 }
